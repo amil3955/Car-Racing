@@ -43,12 +43,11 @@ R3F-CAR-RACING
 
 ## Get Started
 
-Try the game right in your browser! [(click me)](https://DanieloM83.github.io/R3F-Car-Racing)
-
 Ready to explore the code behind the scenes? Follow these simple steps to set up the project on your local machine:
 
 ```bash
-git clone https://github.com/DanieloM83/R3F-Car-Racing.git
+
+git clone https://github.com/amil3955/Ecommerce-shoes.git
 
 cd R3F-Car-Racing
 
@@ -75,8 +74,3 @@ This will launch the project on your local machine, and you can access it by nav
 
 I'd like to thank the community of creators and teachers on YouTube whose ideas, code snippets, and detailed video tutorials were very helpful in developing this mini-project. The wealth of knowledge these people shared not only inspired my journey, but also enriched the development process.
 
-- [**Low Poly Vehicles | Easy Beginner | Blender Tutorial**](https://www.youtube.com/watch?v=Zkg7Ol2jEjs)
-- [**Make A Low Poly Barrel - Beginner Tutorial**](https://www.youtube.com/watch?v=0jWLjAaIEMg)
-- [**The Best Volumetric Fog Shader (Blender Tutorial)**](https://www.youtube.com/watch?v=2SiCtnXVVFw)
-- [**Car physics mini game with React Three Fiber and Three.js**](https://www.youtube.com/watch?v=wHw3Gh0IhNc)
-- [**Texture Baking Blender Tutorials**](https://www.youtube.com/playlist?list=PLsGl9GczcgBvJPh7D_ITafvmTW7ZzQTEr)
